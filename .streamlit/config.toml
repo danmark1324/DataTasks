@@ -1,0 +1,3 @@
+[server]
+baseUrlPath = "d/CourseReviewCalculator"
+port = 8501
